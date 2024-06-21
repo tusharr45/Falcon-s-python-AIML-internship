@@ -1,0 +1,58 @@
+
+nested loop =>Nested loops, combining for loops or while loops, are a powerful tool in Python for iterating over data with multiple dimensions. 
+
+for loop => The for loop in Python is a fundamental control flow statement used for iterating over a sequence of item.
+
+
+rows =6  =>  [111111111]
+
+
+column =6 =>  [1
+               2 
+               3
+               4
+               5]
+
+
+
+111111
+222222
+333333
+444444
+555555
+
+
+
+positinal arguement = depend on order
+
+conditional arguement = not depend on order 
+
+default order =auto defined 
+
+keyword arguement
+
+
+scoping
+
+
+
+
+
+
+Question: 
+
+
+
+You are given a single number. You need to print one of the following outputs according to the number's nature.
+
+Print 1, if the number is positive
+
+Print -1, if it's negative
+You are given two numbers. You need to calculate and print their greatest common divisor (GCD)
+ fibonacci series
+
+ prime number
+
+ valid triangle or not
+ 
+ find out factorial

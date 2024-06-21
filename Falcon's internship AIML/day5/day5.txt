@@ -1,0 +1,15 @@
+Tuple= immutable  #tuple don't change values   ()
+
+list is mutable # list can change values   []
+
+
+
+Tuple=>
+
+packaging , unpackaging 
+
+
+set=unique , unorder , 
+don't apply indexing in set and dont able to perform slicing perform 
+set is represented by {}
+

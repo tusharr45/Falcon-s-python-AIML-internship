@@ -1,0 +1,56 @@
+dicitionary = key value  , pair
+
+key=name
+value= Tushar
+
+{
+    'name' : "Tushar"
+
+'city': "jaipur"
+'edu' : "cs"
+'no' : 123,
+}
+
+key,value pair
+
+unordered way = not done indexoing and slicind in dic 
+
+key = immutable , unique
+
+value= mutable, 
+
+
+
+
+++++++++++++++++if else+++++++++++++++++++++++++++
+
+
+1.calculator
+2. even or odd 
+3tavle of number 
+4. even from 1 to 10
+5. grater number among three 
+
+
+
+
+
+assignment 
+
+nested while 
+
+''''
+outer_condition = True
+while outer_condition:
+    # Code to be executed repeatedly as long as outer_condition is True
+
+    inner_condition = True
+    while inner_condition:
+        # Code to be executed repeatedly as long as inner_condition is True
+        # This code will run multiple times for each iteration of the outer loop
+
+        # Update the inner_condition to eventually become False and exit the inner loop
+    
+    # Update the outer_condition to eventually become False and exit the outer loop
+    '''
+

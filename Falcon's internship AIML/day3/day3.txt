@@ -1,0 +1,45 @@
+1.how to store data   => in variables
+
+
+2.range of datatype 
+= 8-bit signed integer: Range from -128 to 127.
+16-bit signed integer: Range from -32,768 to 32,767.
+32-bit signed integer: Range from -2,147,483,648 to 2,147,483,647.
+64-bit signed integer: Range from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807.
+
+a=10
+integer =4 byte
+
+1byte = 8 bit 
+
+4 byte = 32 bite 
+
+
+
+datatype = 2hingd
+
+1. what kind of value we want to store in memory?
+= int,float,string,list,tuples,dictionary,etc
+
+
+
+ what is he size of the type ?
+
+string = ''   ,  ""
+
+
+
+int= number  , 4byte
+float = rational  , 4byte
+
+
+
+
+range = min value or max value 
+1000 = (0,999)
+1000 exclude 
+
+
+
+2^
+

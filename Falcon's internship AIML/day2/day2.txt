@@ -1,0 +1,41 @@
+how to take input from user 
+input("")
+
+
+how to do comment 
+# this is comment comment is useful for what a dev write code 
+
+
+operators
+
+using  to perform opration 
+
+1.arithmetic   + - * / 
+2.assignment   = 
+3.realtional  =>,>< 
+4.logical   and or not 
+5.uniery  - +
+6.bitwise ~,&,|,^,<<,>>
+
+bit =smallest unit of data 
+1 byte= 8bit
+its range is (0 to 255)
+
+int is 4 byte 
+4 byte = 32 bit 
+
+
+
+** exponential power 
+// floor symbol reminder 
+
+
+and= when no  conditions are true
+
+false true =false
+
+
+or = both of one is true condition
+
+true false = true 
+

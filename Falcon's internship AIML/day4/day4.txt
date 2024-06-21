@@ -1,0 +1,53 @@
+slicing in string  = 1 part 
+
+s="poornima university"
+
+Rnim
+
+1.forward dslicing
+2.backward slicing
+
+
+formula = str[start : end :steps]
+
+indexing start with 0,1,2,3,4,5,6,67
+
+
+
+
+
+-8-7-6-5-4-3-2-1                neagtive indexing / backward slicing
+P O O r n i m a 
+0 1 2 3 4 5 6 7                 positive indexing / Forward slicing
+
+
+s[0:5]
+
+
+
+
+
+0   1   2   3   4   5   6   7   8   9   10   11   12
+p   y   t   h   o   n   p   r   o   g   r    a     m
+-13 -12 -11 -10 -9  -8  -7  -6  -5   -4  -3   -2   -1
+
+S[::]
+
+
+list= [] datatype in python 
+a=10
+b='an'
+c=68.66
+
+l=[10,'string',1000,12.06]
+
+
+
+Question
+
+Difference between sort and sorted() ?
+
+Syntax: sorted(iterable, key, reverse=False) 
+
+Syntax: List_name.sort(key, reverse=False)
+

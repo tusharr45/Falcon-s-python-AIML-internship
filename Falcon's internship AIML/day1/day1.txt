@@ -1,0 +1,28 @@
+# python
+# nupmy , Pandas , matpolib,seaborm
+# statistics
+# ML
+# DL
+# NLP
+
+python - is a general purpose hgh level  programming lagnugage
+
+python made by guido van rossum in 1991 in NRI lab 
+
+why python is easy  to understand ?
+
+print("hello world)
+
+App;ication of python 
+!. data science 
+2. iot 
+3. ML
+4. web development
+5.app development
+6. data manupulating
+
+
+Question .  what is Eval function and input ?
+Ans= Eval:The eval function in various programming languages (like Python) dynamically evaluates a string as a Python expression.
+ Input :  The input function  prompts the user to enter data through the console or a graphical user interface (GUI).
+
