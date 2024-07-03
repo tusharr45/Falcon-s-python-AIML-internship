@@ -1,0 +1,28 @@
+standeriaztion =>  
+
+coulmn / feature => 
+
+1. feature =>numerical
+
+
+
+mean =>0
+std => 1
+
+age    salaryy = distributed format 
+
+1-100   
+
+
+Normalization =>  
+
+range of the coulmn(Range ) => (0,1) 
+
+changes in coulmn => 
+
+=========independent and dependent variables =======================
+
+independent variable => lies on x axis 
+
+dependent variable =>lies on   y axis and it is depend on x axis 
+
